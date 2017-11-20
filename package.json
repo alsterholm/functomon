@@ -1,0 +1,19 @@
+{
+  "name": "functomon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasindal/functomon.git"
+  },
+  "author": "Andreas Indal <hello@andreasind.al>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreasindal/functomon/issues"
+  },
+  "homepage": "https://github.com/andreasindal/functomon#readme"
+}
